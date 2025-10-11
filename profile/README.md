@@ -6,7 +6,7 @@
 
 **Affordable, portable, hackable digital audio for everybody.**
 
-Jaffx Audio Inc. is dedicated to making professional digital audio tools accessible through open-source software and hardware. We develop tools and libraries that empower musicians, sound designers, and audio developers to create and experiment with digital audio effects.
+Jaffx Audio Inc. is dedicated to making great digital audio tools accessible through open-source software and affordable hardware. We develop tools and libraries that empower musicians, sound designers, and audio developers to create and experiment to their hearts' content.
 
 ## Featured Projects
 
